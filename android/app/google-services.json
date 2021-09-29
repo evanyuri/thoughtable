@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267863229015",
+    "project_id": "thoughtable-4f015",
+    "storage_bucket": "thoughtable-4f015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267863229015:android:842e78757cccae4f87d912",
+        "android_client_info": {
+          "package_name": "com.thoughtable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267863229015-1tpsptstmtq72dqh8paoon17jkh99hjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIDzgtY1FLTWz7pDdaqxPC_qC-vXJWWpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267863229015-1tpsptstmtq72dqh8paoon17jkh99hjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
